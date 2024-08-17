@@ -40,3 +40,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Kurosakiniel/Kurosakiniel/output/snake.svg" alt="Snake animation" />
+
+###
